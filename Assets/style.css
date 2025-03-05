@@ -282,3 +282,11 @@ body {
     gap: 5px;
   }
 }
+@media (max-width: 480px) {
+  .buttons {
+    flex-direction: row !important; /* Giữ các nút nằm ngang */
+    flex-wrap: wrap; /* Đảm bảo chúng không bị tràn */
+    gap: 5px; /* Tạo khoảng cách giữa các nút */
+    justify-content: center; /* Căn giữa các nút */
+  }
+}
