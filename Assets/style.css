@@ -61,12 +61,12 @@ body {
 
 /* Nút hiển thị danh sách nhạc */
 .show-playlist {
-  margin-top: 10px;
+  margin: 25px;
   padding: 10px 20px;
   border: none;
-  background: #1595be;
-  color: white;
-  font-size: 1rem;
+  background: #0ed1a0;
+  color: rgb(3, 1, 1);
+  font-size: 2rem;
   border-radius: 5px;
   cursor: pointer;
 }
