@@ -32,6 +32,13 @@ const music_list = [
     artist: 'MONO',
     youtubeId: 'WCm2elbTEZQ' // Thay bằng ID video thực tế
   },
+  
+  {
+    img: 'img/lifeiyu.jpg',
+    name: 'Ngày Em Đẹp Nhất',
+    artist: 'Lofi',
+    youtubeId: 'mnQMvKnvEKs'
+  },
   {
     img: 'img/st.jpg',
     name: 'Em Của Ngày Hôm Qua',
